@@ -1,16 +1,10 @@
 This is rangasamy
+rangasamy fav color blue
+rangasamy fav sports cricket
 Rangasamy fav film is viswasam
 Rangasamy fav mobile is samsung
 lorem
 ipsum
 test1
 test2
-test3
-This is rangasamy
-Rangasamy fav film is viswasam
-Rangasamy fav mobile is samsung
-lorem
-ipsum
-test1
-test2
-test3   
+test3  
